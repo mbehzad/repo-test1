@@ -1,0 +1,5 @@
+b-to-be-changed-with-conflict-rev-2
+rev-1|2 change here
+
+---
+

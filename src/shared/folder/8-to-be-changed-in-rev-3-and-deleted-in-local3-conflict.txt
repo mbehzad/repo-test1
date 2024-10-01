@@ -1,0 +1,8 @@
+file1-to-be-changed-in-rev-3-no-conflict -- rev-1
+
+---
+rev-1|2
+---
+
+---
+
