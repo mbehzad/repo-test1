@@ -1,7 +1,7 @@
 file1-to-be-changed-in-rev-2-no-conflict -- rev-1
 
 ---
-rev-1
+rev-2
 ---
 
 ---
