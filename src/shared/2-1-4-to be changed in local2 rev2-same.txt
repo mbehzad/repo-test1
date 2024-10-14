@@ -1,5 +1,5 @@
 2-1-4
-changeToA->B  A
+changeToA->B  B
 ---
 
 rev-1
